@@ -43,7 +43,7 @@ mkdir data
 
 ├── data/
 │   └── nds_cl_1.csv
-├── notebooks
+├── notebooks/
 │   └── CodingLab1.ipynb
 
 ## Task Assignments
