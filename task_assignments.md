@@ -3,7 +3,7 @@
 ## Project 1
 
 ### Task 1: Butterworth Filter
-- Julius
+- Julius: Done
 
 ### Task 2: Detect Spikes
 
