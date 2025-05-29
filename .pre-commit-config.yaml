@@ -6,10 +6,10 @@ repos:
       entry: bash .pre-commit-hooks/run_nbdev_on_staged_files.sh # path to the script
       language: system # how to run the script
       types: [jupyter] # what to run it on
-      stages: [pre-commit] # when to run it
+      stages: [commit] # when to run it
     - id: check_names
       name: check names
       entry: bash .pre-commit-hooks/check_names.sh
       language: system
       types: [jupyter]
-      stages: [pre-commit]
+      stages: [commit]

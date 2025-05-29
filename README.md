@@ -32,19 +32,3 @@ Set up `nbdime`.
 ```bash
 nbdime config-git --enable
 ```
-
-## Add data directory
-
-```bash
-mkdir data
-```	
-
-## Copy both Notebook and CSV-File to their respective directories
-
-├── data/
-│   └── nds_cl_1.csv
-├── notebooks/
-│   └── CodingLab1.ipynb
-
-## Task Assignments
-see [task_assignments.md](task_assignments.md)
